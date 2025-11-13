@@ -19,7 +19,7 @@ Effective cable management is essential for maintaining a clean, organized, and 
 - Server room and data center cable layout optimization  
 - Ongoing maintenance and periodic audits  
 
-By investing in our cable management services, businesses can reduce downtime, enhance airflow, and simplify troubleshooting—ensuring that your network runs smoothly and efficiently every day.
+By investing in our cable management services, businesses can reduce downtime, enhance airflow, and simplify troubleshooting-ensuring that your network runs smoothly and efficiently every day.
 
 ---
 
@@ -34,7 +34,7 @@ As a dedicated **VoIP Cabling Contractor Savannah GA**, **J3K Technologies** hel
 - Integration with IP phones, routers, and switches  
 - Scalable solutions for expanding networks  
 
-We understand that uninterrupted communication is crucial in today’s business world. Our certified technicians ensure your VoIP network operates at peak performance—offering clear voice transmission, low latency, and future-ready scalability.
+We understand that uninterrupted communication is crucial in today’s business world. Our certified technicians ensure your VoIP network operates at peak performance-offering clear voice transmission, low latency, and future-ready scalability.
 
 ---
 
@@ -64,7 +64,7 @@ When you choose **J3K Technologies**, you’re partnering with a trusted team of
 - Customized solutions for each business environment  
 - Transparent pricing with no hidden costs  
 
-We take pride in delivering turnkey solutions—covering everything from initial design and installation to ongoing maintenance and technical support.
+We take pride in delivering turnkey solutions-covering everything from initial design and installation to ongoing maintenance and technical support.
 
 ---
 
